@@ -1,1 +1,3 @@
 # KashyykHotel
+
+This was a project coded in C that we completed last year. We were split into groups of 3, as there were 3 main sections that needed to be completed. However, unfortunately our group only had 2 members so the 'Book a Dinner Table' part of the program wasn't able to be completed. This program involved creating a hotel which had 2 other sections, to check in and to check out. In the check in section, it allowed a user to book a room for a set number of days for a set number of people, plus optional extras. In the check out section, the program calculates your cost for the stay and displays it to the user.
